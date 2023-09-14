@@ -1,1 +1,1 @@
-# java.ortalamahesaplama
+# java-OrtalamaHesaplamaProjesi
